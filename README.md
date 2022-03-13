@@ -5,5 +5,5 @@ My terrible port scanner which is written with the The Cyber Mentor's Ethical Ha
 
 # usage
 
-python3 myterriblescanner.py <ip>
+python3 myterriblescanner.py "ipadress"
   
